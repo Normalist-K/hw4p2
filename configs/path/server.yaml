@@ -1,0 +1,5 @@
+base: '/shared/youngkim/hw4p2_student_data/hw4p2_student_data'
+data: '/shared/youngkim/hw4p2_student_data/hw4p2_student_data'
+submissions: '/shared/youngkim/hw4p2_student_data/hw4p2_student_data/submissions/'
+weights: '/shared/youngkim/hw4p2_student_data/hw4p2_student_data/weights/'
+pretrained: '/shared/youngkim/hw4p2_student_data/hw4p2_student_data/weights/original-07:02:58:03/10.pth'

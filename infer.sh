@@ -1,0 +1,2 @@
+# python infer.py name='original-07:02:58:03-epoch15' device='cuda:0' resume=True path.pretrained='/shared/youngkim/hw4p2_student_data/hw4p2_student_data/weights/original-07:02:58:03/15.pth' datamodule.batch_size=32
+python infer.py name='original-07:03:05:46-epoch21' device='cuda:0' model='basic.yaml' resume=True path.pretrained='/shared/youngkim/hw4p2_student_data/hw4p2_student_data/weights/original-07:03:05:46/21.pth' datamodule.batch_size=32

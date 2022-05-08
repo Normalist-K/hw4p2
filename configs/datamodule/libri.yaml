@@ -1,0 +1,9 @@
+_target_: src.datasets.libri_datamodule.LibriDataModule
+
+data_dir: ${path.data} # data_dir is specified in config.yaml
+freq_mask: False
+add_noise: False
+batch_size: 128
+num_workers: 4
+pin_memory: True
+verbose: False

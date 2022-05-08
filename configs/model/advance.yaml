@@ -1,0 +1,9 @@
+_target_: src.models.seq2seq.Seq2Seq
+
+input_dim: 13
+vocab_size: 30 # len(LETTER_LIST)
+encoder_hidden_dim: 256
+decoder_hidden_dim: 512
+embed_dim: 512
+key_value_size: 256
+teacher_forcing_schedule: True
